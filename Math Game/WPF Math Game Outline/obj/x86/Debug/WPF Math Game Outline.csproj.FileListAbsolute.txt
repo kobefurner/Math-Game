@@ -1,0 +1,36 @@
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.AssemblyReference.cache
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.baml
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndGame.baml
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndFinalScoreScreen.baml
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.g.cs
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndGame.g.cs
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndFinalScoreScreen.g.cs
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\App.g.cs
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline_MarkupCompile.cache
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.g.resources
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF_Math_Game_Outline.Properties.Resources.resources
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.GenerateResource.cache
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe.config
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.pdb
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.exe
+C:\Users\shawn\Desktop\_WSU C#\Summer 2024\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.pdb
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe.config
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.pdb
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.AssemblyReference.cache
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.baml
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndGame.baml
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndFinalScoreScreen.baml
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.g.cs
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndGame.g.cs
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\wndFinalScoreScreen.g.cs
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\App.g.cs
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline_MarkupCompile.cache
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.g.resources
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF_Math_Game_Outline.Properties.Resources.resources
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.GenerateResource.cache
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.CoreCompileInputs.cache
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.exe
+C:\Users\furnd\Downloads\Files For Students\Example Programs\WPF Math Game Outline Assignment Template\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.pdb
